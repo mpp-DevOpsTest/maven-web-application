@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>MPP-snapshots </name>
+	      <name>MPP-snapshots</name>
 	      <urlhttp://13.234.35.254:8081/repository/MPP-snapshots/</url>
 	    </snapshotRepository>
 	    
