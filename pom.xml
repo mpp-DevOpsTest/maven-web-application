@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.35.254:8081/repository/maven-releases/</url>
+	      <name>MPP-relases</name>
+	      <url>http://13.234.35.254:8081/repository/MPP-relases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.234.35.254:8081/repository/maven-snapshots/</url>
+	      <name>MPP-snapshots </name>
+	      <urlhttp://13.234.35.254:8081/repository/MPP-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
