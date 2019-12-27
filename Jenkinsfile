@@ -1,7 +1,7 @@
 node{
  
   //echo "GitHub BranhName ${env.BRANCH_NAME}"
-  //echo "Jenkins Job Number ${env.BUILD_NUMBER}"
+  echo "Jenkins Job Number ${env.BUILD_NUMBER}"
   echo "Jenkins Node Name ${env.NODE_NAME}"
   
   echo "Jenkins Home ${env.JENKINS_HOME}"
